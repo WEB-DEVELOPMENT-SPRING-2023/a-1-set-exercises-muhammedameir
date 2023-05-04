@@ -1,0 +1,72 @@
+body {margin: 0;}
+
+nav {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+nav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+nav a:hover {
+  background: #ddd;
+  color: black;
+}
+
+.main {
+  padding: 16px;
+  margin-top: 30px;
+  height: 1500px; /* Used in this example to enable scrolling */
+}
+
+div.sect{
+	padding:0 16px;
+}
+ul.list{
+	padding-left:140px;
+}
+ul.list li{
+	padding-top:10px;
+	padding-bottom:10px;
+	color:gray;
+}
+	
+th, td {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 60px;
+  padding-right: 40px;
+  color:blue;
+}
+table{
+	padding-left: 100px;
+  padding-right: 100px;
+}
+
+div.head{
+  text-align:center;
+  color:red;
+} 
+
+div.link{
+	padding-top:20px;
+	padding-bottom:60px;
+	padding-left:200px;
+	padding-right:50px;
+}
+.fcc-btn {
+  background-color: #199319;
+  color: white;
+  padding: 15px 25px;
+  text-decoration: none;
+}
