@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<nav>
+			 <a href="#">Home</a>
+			 <a href="#plot">Plot</a>
+			 <a href="#key">Key Information</a>
+			 <a href="#cast">Cast</a>
+			 <a href="#link">Link</a>
+		</nav>
+		<div class="main">
+			<div class="head">
+			<h1>Spider-Man: No Way Home</h1>
+		</div>
+
+		<div class="sect" id="plot">
+		  <h2>Plot:</h2>
+		  <hr>
+		  <p>J. Jonah Jameson of The Daily Bugle has exposed Peter Parker's identity as Spider-Man to the world, while simultaneously framing him as the 
+		  individual responsible for Mysterio's death and an alleged mass casualty event in London. Numerous civilians nearby begin to
+		  surround him and Michelle Jones, forcing them to flee from the media and the police. They hide in Parker's apartment and 
+		  reunite with May Parker and Happy Hogan, who reveal that they have broken up. Not long after, the United States Department
+		  of Damage Control take them along with Ned Leeds in their custody for interrogation. Parker hires Matt Murdock to represent
+		  him, who manages to get his criminal charges dropped. However, as Parker, Jones, and Leeds return to Midtown High for their 
+		  senior year, the intense controversy causes them to be rejected from every college they apply to, including MIT.</p>
+		  <p>Parker visits the New York Sanctum and asks Doctor Strange to make the identity of Spider-Man a secret once more to get his
+		  friends into MIT. Despite being warned by Wong not to, Strange attempts to cast the spell with the Runes of Kof-Kol. However, 
+		  Parker incessantly alters the spell when requesting various individuals close to him to be exempt from its effects. As a result,
+		  the spell becomes unstable, forcing Strange to contain it. For not consulting with college administrators before meeting with him,
+		  Strange furiously kicks Parker out of the Sanctum. Contacting Flash Thompson, who was admitted to MIT, Parker is led to an administrator 
+		  heading to the Alexander Hamilton Bridge in an attempt to appeal his, Jones' and Leeds' applications.</p>
+		  
+		</div>
+
+
+		<div  class="sect" id="key">
+		  <h2>Key Information:</h2>
+		  <hr>
+		  <table>
+			<tbody>
+				<tr>
+					<td><b>Directed by:</b></td>
+					<td>Jon Watts</td>
+				</tr>
+				<tr>
+					<td><b>Written by:</b></td>
+					<td>Chris McKenna Erik Sommers</td>
+				</tr>
+				<tr>
+					<td><b>Based on:</b></td>
+					<td>Spider-Man by Stan Lee Steve Ditko</td>
+				</tr>
+				<tr>
+					<td><b>Produced by:</b></td>
+					<td>Kevin Feige Amy Pascal</td>
+				</tr>
+				<tr>
+					<td><b>Country:</b></td>
+					<td>United States</td>
+				</tr>
+				<tr>
+					<td><b>Language:</b></td>
+					<td>English</td>
+				</tr>
+				<tr>
+					<td><b>Budget:</b></td>
+					<td>$200 million</td>
+				</tr>
+				<tr>
+					<td><b>Box office:</b></td>
+					<td>$1.922 billion</td>
+				</tr>
+			</tbody>
+		  </table
+		  
+		</div>
+
+		<div class="sect" id="cast">
+		  <h2>Cast:</h2>
+		  <hr>
+		  <ul class="list">
+			<li>Tom Holland as Peter Parker/Spider-Man</li>
+			<li>Zendaya as Michelle Jones</li>
+			<li>Benedict Cumberbatch as Stephen Strange/Doctor Strange</li>
+			<li>Jacob Batalon as Ned Leeds</li>
+			<li>Jon Favreau as Happy Hogan</li>
+			<li>Jamie Foxx as Max Dillon/Electro</li>
+			<li>Willem Dafoe as Norman Osborn/Green Goblin</li>
+			<li>Alfred Molina as Otto Octavius/Doctor Octopus</li>
+			<li>Benedict Wong as Wong</li>
+			<li>Tony Revolori as Flash Thompson</li>
+			<li>Marisa Tomei as May Parker</li>
+			<li>Marisa Tomei as May Parker</li>
+			<li>Andrew Garfield as Peter Parker/Spider-Man</li>
+			<li>Tobey Maguire as Peter Parker/Spider-Man</li>
+			<li>Angourie Rice as Betty Brant</li>
+			<li>Arian Moayed as Agent P. Cleary</li>
+			<li>Paula Newsome as MIT Assistant Vice Chancellor</li>
+			<li>Hannibal Buress as Coach Andre Wilson</li>
+			<li>Martin Starr as Roger Harrington</li>
+			<li>J.B. Smoove as Julius Dell</li>
+			<li>J.K. Simmons as J. Jonah Jameson</li>
+			<li>Rhys Ifans as Curt Connors/Lizard</li>
+		  </ul>
+		  
+		</div>
+
+		  <div class="sect" id="link">
+			  <h2>Movie Link:</h2>
+			  <hr>
+			  <div class="link">
+				<a target="_blank" class="fcc-btn" href="https://www.spidermannowayhome.movie/">GO to Link</a>
+		       </div>
+		</div>
+	</body>
+</html>
