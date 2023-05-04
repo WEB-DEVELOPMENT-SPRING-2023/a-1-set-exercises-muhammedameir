@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<header>
+		<h1><u>Three Images</u></h1>
+		<br>
+		</header>
+		<br>
+		<main>
+			<section class="row">
+			 <section class="column">
+				<img src="image1.jpg"  width="300" height="250" alt="Lionel Messi Rising hand" title="Image 1" id="id1"
+				 copyright="cc-by 2015 Ibrahim Diallo idiallo.com/photography" />
+				 
+			 </section>
+			 <section class="column">
+				<img src="image2.jpg"  width="300" height="250" alt="Lionel Messi Celebrating" title="Image 2" id="id2" />
+			 </section>
+			 <section class="column">
+				<img src="image3.jpg"  width="300" height="250" alt="Lionel Messi Enjoying" title="Image 3" id="id3" />
+			 </section>
+			 </section>
+		</main>
+		<br>
+		
+		
+	</body>
+</html>
